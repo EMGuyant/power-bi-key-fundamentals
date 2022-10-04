@@ -1,2 +1,2 @@
 # power-bi-key-fundamentals
-Key Power BI fundamentals example files
+Power BI key fundamentals example files
